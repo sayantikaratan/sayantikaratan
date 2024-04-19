@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sayantikaratan
+- 👀 I’m a cybersecurity professional, currently on a break. I am specialized in Governance, Risk Management and Compliance.
+- 🌱 I’m currently learning Web Development.
